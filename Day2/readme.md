@@ -149,7 +149,7 @@ show
 #### Synthesizing async_set file
 
 ```
-read_liberty -lib ../lib/sky130_fd_sc_hd__tt_025C_1v80.li
+read_liberty -lib ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
 read_verilog dff_async_set.v
 synth -top dff_async_set
 ```
@@ -176,7 +176,7 @@ yosys
 ```
 ##### 1.
 ```
-read_liberty -lib ../lib/sky130_fd_sc_hd__tt_025C_1v80.li
+read_liberty -lib ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
 read_verilog mult_2.v
 synth -top mul2
 ```
@@ -202,7 +202,7 @@ write_verilog -noattr mul2_net.v
 
 ##### 2. 
 ```
-read_liberty -lib ../lib/sky130_fd_sc_hd__tt_025C_1v80.li
+read_liberty -lib ../lib/sky130_fd_sc_hd__tt_025C_1v80.lib
 read_verilog mult_8.v
 synth -top mult8
 ```
