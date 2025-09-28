@@ -313,6 +313,8 @@ always @(*) begin
 end
 endmodule
 ```
+<img width="952" height="1076" alt="Show_Demux_Case" src="https://github.com/user-attachments/assets/ef27e038-e507-4c41-90da-f63bb26f49d2" />
+<img width="1846" height="745" alt="GTKWave Demux_Case" src="https://github.com/user-attachments/assets/a0de6aa8-998c-44fe-afbc-566bf4bcc9a2" />
 
 
 ### Lab 11: 8-to-1 Demux Using For Loop
