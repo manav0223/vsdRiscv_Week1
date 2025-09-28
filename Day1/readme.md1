@@ -1,0 +1,18 @@
+<div align="center">
+ 
+# Week 1 : Day 1
+# Introduction to Verilog RTL design and Synthesis
+
+</div>
+
+<div align="center">
+ 
+[![RISC-V](https://img.shields.io/badge/RISC--V-SoC%20Tapeout-blue?style=for-the-badge&logo=riscv)](https://riscv.org/)
+[![VSD](https://img.shields.io/badge/VSD-Program-orange?style=for-the-badge)](https://vsdiat.vlsisystemdesign.com/)
+![Week](https://img.shields.io/badge/Week-1-green?style=for-the-badge)
+
+</div>
+
+
+## Overview :
+Think of today as setting up my digital design toolbox! I was introduced to Verilog, the must-know language for hardware. The great news is we focused on open-source tools. I learned how to simulate my circuits using Icarus Verilog (iverilog), which is fantastic for seeing if my code actually works. Then, I explored logic synthesis with Yosys, another powerful, free tool that bridges the gap between code and silicon. All the explanations were super easy to follow, and the labs were a blast. I wrapped up the day feeling confident about the fundamentals of Register Transfer Level (RTL) design.
